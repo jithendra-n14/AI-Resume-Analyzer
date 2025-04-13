@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Software Engineer",
+        "description": "Looking for a candidate with strong Java, Python, and SQL experience."
+    },
+    {
+        "title": "Data Scientist",
+        "description": "Expertise in Machine Learning, Python, and Data Science techniques."
+    },
+    {
+        "title": "Frontend Developer",
+        "description": "Proficient in React, JavaScript, and UI/UX design."
+    }
+]
